@@ -1,0 +1,220 @@
+Welcome to the sorting demonstration
+Which type of data would you like to sort?
+1: Integers
+2: Doubles
+3: Characters
+4: Strings
+5: Exit
+1Enter size of data, between 1 and 32. 
+5
+Enter data separated by a space. 
+32 67 83 23 53 
+
+Insertion Sort: 
+
+
+
+
+
+
+
+67 32 83 23 53 
+83 67 32 23 53 
+83 67 32 23 53 
+83 67 53 32 23 
+
+Quick Sort: 
+32 67 83 23 53 
+
+83 67 53 23 32 
+83 67 53 23 32 
+83 67 53 23 32 
+83 67 53 23 32 
+83 67 53 23 32 
+83 67 53 32 23 
+83 67 53 32 23 
+83 67 53 32 23 
+
+Merge Sort: 
+32 67 83 23 53 
+
+32 67 83 23 53 
+32 67 83 23 53 
+67 32 83 23 53 
+67 32 83 23 53 
+67 32 83 23 53 
+83 67 32 23 53 
+83 67 32 23 53 
+83 67 32 23 53 
+83 67 32 23 53 
+83 67 32 53 23 
+83 67 32 53 23 
+83 67 53 32 23 
+
+Welcome to the sorting demonstration
+Which type of data would you like to sort?
+1: Integers
+2: Doubles
+3: Characters
+4: Strings
+5: Exit
+2Enter size of data, between 1 and 32. 
+5
+Enter data separated by a space. 
+2.5 3.5 6.3 1.3 9.6 
+
+Insertion Sort: 
+
+
+
+
+
+
+
+3.5 2.5 6.3 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+9.6 6.3 3.5 2.5 1.3 
+
+Quick Sort: 
+2.5 3.5 6.3 1.3 9.6 
+
+9.6 3.5 6.3 1.3 2.5 
+9.6 6.3 3.5 1.3 2.5 
+9.6 6.3 3.5 1.3 2.5 
+9.6 6.3 3.5 1.3 2.5 
+9.6 6.3 3.5 1.3 2.5 
+9.6 6.3 3.5 2.5 1.3 
+9.6 6.3 3.5 2.5 1.3 
+9.6 6.3 3.5 2.5 1.3 
+
+Merge Sort: 
+2.5 3.5 6.3 1.3 9.6 
+
+2.5 3.5 6.3 1.3 9.6 
+2.5 3.5 6.3 1.3 9.6 
+3.5 2.5 6.3 1.3 9.6 
+3.5 2.5 6.3 1.3 9.6 
+3.5 2.5 6.3 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+6.3 3.5 2.5 1.3 9.6 
+6.3 3.5 2.5 9.6 1.3 
+6.3 3.5 2.5 9.6 1.3 
+9.6 6.3 3.5 2.5 1.3 
+
+Welcome to the sorting demonstration
+Which type of data would you like to sort?
+1: Integers
+2: Doubles
+3: Characters
+4: Strings
+5: Exit
+3Enter size of data, between 1 and 32. 
+5
+Enter data separated by a space. 
+d z e y g 
+
+Insertion Sort: 
+
+
+
+
+
+
+
+z d e y g 
+z e d y g 
+z y e d g 
+z y g e d 
+
+Quick Sort: 
+d z e y g 
+
+z y e g d 
+z y e g d 
+z y e g d 
+z y g e d 
+z y g e d 
+z y g e d 
+z y g e d 
+z y g e d 
+
+Merge Sort: 
+d z e y g 
+
+d z e y g 
+d z e y g 
+z d e y g 
+z d e y g 
+z d e y g 
+z e d y g 
+z e d y g 
+z e d y g 
+z e d y g 
+z e d y g 
+z e d y g 
+z y g e d 
+
+Welcome to the sorting demonstration
+Which type of data would you like to sort?
+1: Integers
+2: Doubles
+3: Characters
+4: Strings
+5: Exit
+4Enter size of data, between 1 and 32. 
+5
+Enter data separated by a space. 
+this is a big test 
+
+Insertion Sort: 
+
+
+
+
+
+
+
+this is a big test 
+this is a big test 
+this is big a test 
+this test is big a 
+
+Quick Sort: 
+this is a big test 
+
+this is a big test 
+this test a big is 
+this test is big a 
+this test is big a 
+this test is big a 
+this test is big a 
+this test is big a 
+this test is big a 
+
+Merge Sort: 
+this is a big test 
+
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a big test 
+this is a test big 
+this is a test big 
+this test is big a 
+
+Welcome to the sorting demonstration
+Which type of data would you like to sort?
+1: Integers
+2: Doubles
+3: Characters
+4: Strings
+5: Exit
+5
